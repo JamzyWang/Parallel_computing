@@ -11,7 +11,7 @@
 6--7 为CUDA编程<br>
 (SGEMM & SPMV)
 
-##### 实验环境<br>
+#### 实验环境<br>
 **CPU: i7-7700K**  **GPU:GTX 1080**  
 **内存**:8G DDR4
 **OS**:Ubuntu 16.04
